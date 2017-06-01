@@ -212,4 +212,4 @@ l11=l11+1;
 
 
 
-showsticky('<a>Link Generator Initialized'</a>');
+showsticky('<a>Link Generator Initialized</a>');
