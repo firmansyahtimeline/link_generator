@@ -1,10 +1,14 @@
 // ==UserScript==
 // @name         Link Generator
-// @namespace    http://tampermonkey.net/
-// @version      0.1
+// @namespace    link
+// @version      1.1
 // @description  https://github.com/firmansyahtimeline/link_generator/
 // @author       Firmansyah
+// @contactURL   https://reek.github.io/firmansyahtimeline/#contact
+// @downloadURL  https://raw.githubusercontent.com/firmansyahtimeline/link_generator/master/link_generator.js
+// @updateURL    https://raw.githubusercontent.com/firmansyahtimeline/link_generator/master/link_generator.js
 // @match        *://*/*
+// @license      https://raw.githubusercontent.com/firmansyahtimeline/link_generator/master/readme.md
 // @grant        none
 // ==/UserScript==
 
