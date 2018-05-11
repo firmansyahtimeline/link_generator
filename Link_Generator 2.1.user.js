@@ -8,7 +8,7 @@
 // @downloadURL  https://raw.githubusercontent.com/firmansyahtimeline/link_generator/master/link_generator.js
 // @updateURL    https://raw.githubusercontent.com/firmansyahtimeline/link_generator/master/link_generator.js
 // @match        *://*/*
-// @license      https://raw.githubusercontent.com/firmansyahtimeline/link_generator/master/readme.md
+// @license      MIT
 // @grant        none
 // ==/UserScript==
 
